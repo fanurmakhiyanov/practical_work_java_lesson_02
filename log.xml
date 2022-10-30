@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-30T12:57:48.543589900Z</date>
+  <millis>1667134668543</millis>
+  <nanos>589900</nanos>
+  <sequence>0</sequence>
+  <logger>Task04</logger>
+  <level>WARNING</level>
+  <class>Task04</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Какое-то сообщение</message>
+</record>
+<record>
+  <date>2022-10-30T12:57:48.577587800Z</date>
+  <millis>1667134668577</millis>
+  <nanos>587800</nanos>
+  <sequence>1</sequence>
+  <logger>Task04</logger>
+  <level>INFO</level>
+  <class>Task04</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Что-то произошло</message>
+</record>
+</log>
