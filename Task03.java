@@ -26,7 +26,7 @@ public class Task03 {
         String fileName = file.getName();
         if(fileName.lastIndexOf(".") != -1 && fileName.lastIndexOf(".") != 0)
         return fileName.substring(fileName.lastIndexOf(".") + 1);
-        else return "";
+        else return "Расширение не найдено";
     }
 
 }
