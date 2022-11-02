@@ -2,9 +2,9 @@
 <!DOCTYPE log SYSTEM "logger.dtd">
 <log>
 <record>
-  <date>2022-10-30T12:57:48.543589900Z</date>
-  <millis>1667134668543</millis>
-  <nanos>589900</nanos>
+  <date>2022-10-30T19:43:35.646512100Z</date>
+  <millis>1667159015646</millis>
+  <nanos>512100</nanos>
   <sequence>0</sequence>
   <logger>Task04</logger>
   <level>WARNING</level>
@@ -14,9 +14,9 @@
   <message>Какое-то сообщение</message>
 </record>
 <record>
-  <date>2022-10-30T12:57:48.577587800Z</date>
-  <millis>1667134668577</millis>
-  <nanos>587800</nanos>
+  <date>2022-10-30T19:43:35.701491500Z</date>
+  <millis>1667159015701</millis>
+  <nanos>491500</nanos>
   <sequence>1</sequence>
   <logger>Task04</logger>
   <level>INFO</level>
